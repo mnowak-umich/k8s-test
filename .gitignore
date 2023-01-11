@@ -1,1 +1,4 @@
 vendor
+.dccache
+.env
+.editorconfig
